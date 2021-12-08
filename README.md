@@ -13,11 +13,10 @@
      
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyadsharo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadsharo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeyadsharo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyadsharo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyadsharo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
 </div>
 
 <h2 align="center">
