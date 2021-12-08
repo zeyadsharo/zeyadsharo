@@ -17,6 +17,7 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
 </div>
 
 <h2 align="center">
