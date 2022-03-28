@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h2 align="center"> Hi 👋 , I'm Md. Zeyad Sharo <br/></h2> 
+<h2 align="center"> Hi 👋 , I'm Zeyad Sharo <br/></h2> 
  <br>
   <a href="https://github.com/zeyadsharo" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/zeyadsharo?label=Github%20followers&style=for-the-badge">
