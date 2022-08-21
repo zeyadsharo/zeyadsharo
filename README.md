@@ -20,6 +20,8 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyadsharo&theme=github)](https://github.com/zeyadsharo)
 </div>
 
+<a href="https://app.daily.dev/zeyad_sharo"><img src="https://api.daily.dev/devcards/85df97f94d6e4748815b9f33027c7119.png?r=a4q" width="400" alt="Zeyad Sharo's Dev Card"/></a>
+
 <h2 align="center">
 Technologies and Languages </h2>
 
