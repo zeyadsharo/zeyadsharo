@@ -86,58 +86,8 @@ Technologies and Languages </h2>
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
  ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
- 
-
-
-<h2>Connect with me!</h2>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zeyad-sharo/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sharozeyad/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/zeyadsharo)
-<br> <br>
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadsharo" alt="zeyadsharo" /></p>
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<details>
-	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
-<div align="center">
-
-
-:star: [Codeforces](https://codeforces.com/profile/zeyadsharo) <br>
-:star: [Toph](https://toph.co/u/FahimFBA) <br>
-:star: [HackerRank](https://www.hackerrank.com/zeyadsharo) <br>
-:star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
-:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/) <br>
-:star: [Codechef](https://www.codechef.com/users/zeyadsharo)  <br>
-:star: [CodingBat](https://codingbat.com/) <br>
-:star: [Leetcode](https://leetcode.com/zeyadsharo/) <br>
-:star: [SPOJ](https://www.spoj.com/users/zeyadsharo/) <br>
-:star: [LightOJ](http://lightoj.com/) <br>
-:star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
-:star: [AMT](http://orac.amt.edu.au/)<br>
-:star: [UVa](http://onlinejudge.org/)<br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/zeyadsharo) <br>
-<i>Many more are coming soon...<i> :clap: </div> </details>
-	
-	
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 <div align="center">
