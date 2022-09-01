@@ -75,31 +75,7 @@ Technologies and Languages </h2>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
-<h3> + many more! </h3>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div align="center">
- 
-
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-
- ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<div align="center">
-	
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
-
-
-</div>
 
 
 
-
-------
 Credit: [zeyadsharo](https://github.com/zeyadsharo)
