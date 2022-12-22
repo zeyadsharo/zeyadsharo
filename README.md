@@ -2,6 +2,19 @@
 
 
 <h2 align="center"> Hi 👋 , I'm Zeyad Sharo <br/></h2> 
+
+I am a software developer with a passion for creating and collaborating on innovative projects.
+
+I have a strong foundation in programming languages such as PHP, C#, JavaScript and Python, and I have experience working on a variety of projects, ranging from small scripts to large-scale applications. I am a proactive and self-driven individual, with a proven track record of delivering high-quality code on time and within budget.
+
+In my current role as a project manager at Lelav Company, I am responsible for designing, developing, and maintaining software applications for clients in a variety of industries. I am skilled in all phases of the development process, from planning and execution to testing and deployment.
+
+In my free time, I enjoy hiking and spending time outdoors. I also enjoy staying up-to-date on the latest trends and technologies in the industry, and I am always looking for new challenges and opportunities to learn and grow.
+
+
+ feel free to connect with me on LinkedIn at  <a href="https://www.linkedin.com/in/zeyad-sharo/" target="_blank">.
+
+
  <br>
   <a href="https://github.com/zeyadsharo" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/zeyadsharo?label=Github%20followers&style=for-the-badge">
