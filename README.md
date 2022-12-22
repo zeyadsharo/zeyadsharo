@@ -12,7 +12,7 @@ In my current role as a project manager at Lelav Company, I am responsible for d
 In my free time, I enjoy hiking and spending time outdoors. I also enjoy staying up-to-date on the latest trends and technologies in the industry, and I am always looking for new challenges and opportunities to learn and grow.
 
 
- feel free to connect with me on LinkedIn at  <a href="https://www.linkedin.com/in/zeyad-sharo/" target="_blank">.
+ feel free to connect with me on    <a href="https://www.linkedin.com/in/zeyad-sharo/" target="_blank">LinkedIn</a>
 
 
  <br>
